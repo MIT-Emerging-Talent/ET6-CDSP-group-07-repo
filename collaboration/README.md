@@ -25,7 +25,7 @@ We believe that strong collaboration stems from mutual trust, clear communicatio
 - Meeting notes and summaries are posted for those unable to attend.
 - We rotate note-taking duties to ensure shared responsibility.
 - Meetings are kept on track and action-oriented.
-- We hold monthly evaluation meetings to assess progress, learn from mistakes,
+- We hold monthly evaluation meetings to assess progress, learn from mistakes
   and plan improvements.
 
 ### Communication Tools & Practices
