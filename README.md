@@ -1,4 +1,4 @@
-# ET7 Collaborative Data Science Project – Group 07
+# ET7 CDSP – 7th GEAR⚙️
 ## CI Status
 
 Welcome to our MIT Emerging Talent Collaborative Data Science Project repository.
