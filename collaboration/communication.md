@@ -37,7 +37,7 @@ How often we will get in touch on each channel, and what we will discuss there:
 
 - **Video Calls**:  
   - Every Tuesday (10:00 AM EST): full-team planning and backlog review.  
-  - Every Friday (10:00 AM EST): progress review, demo in progress, and next steps.
+  - Every Friday (10:00 AM EST): progress review, demo in progress, and next steps.hghjgjhgjhhjgjh hjhgjgjgjhk
 
 ## Availability
 
@@ -45,7 +45,7 @@ How often we will get in touch on each channel, and what we will discuss there:
 
 | Day | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |-------------|:------------:|:------------:|:------------:|:------------:|:------------:|:--------:|:------:|
-| Mohamed | - | 5 h (9 AM – 2 PM EST)  | -  | - | 5 h (9 AM – 2 PM EST)  | | |
+| Mohamed dfdfsssgsdgffd | - | 5 h (9 AM – 2 PM EST)  | -  | - | 5 h (9 AM – 2 PM EST)  | | |
 | Zeinab | - | 4 h (10 AM – 2 PM EST) | - | - | 4 h (10 AM – 2 PM EST) | | |
 | María | -  | 4 h (1 PM – 5 PM EST)  | - | - | 4 h (1 PM – 5 PM EST)  | | |
 | Eman | TBD | TBD | TBD | TBD | TBD |  |  |
