@@ -1,3 +1,4 @@
+Z<<<<<<< Domainstudy
 # ET7 CDSP – 7th GEAR⚙️
 
 ![Status](https://img.shields.io/badge/status-in_progress-blue)
