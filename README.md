@@ -52,18 +52,22 @@ As part of the **2025 MIT Emerging Talent program**, our team is committed to:
 * Prepare findings for final presentation.
 
 ---
-❓ Research Question
 
->How do funding goals and campaign durations jointly influence the probability of
-startup success across various project categories, controlling for launch year
-  an country?
+## 📌 Research Focus
 
-⚠️ Problem Statement
+### ❓ Research Question
+
+> How do funding goals and campaign durations jointly influence the probability
+ of startup success across various project categories, controlling for launch
+  year and country?
+
+### ⚠️ Problem Statement
 
 Many great startup ideas never see the light of day due to funding challenges.
  Success depends on multiple factors such as funding goals, campaign duration,
   project type, launch timing, and location. This project explores how these
-   factors interact, aiming to uncover patterns that influence startup success
+  factors interact, aiming to uncover patterns that influence startup success.
+
 ---
 
 ## 📁 Repository Structure
