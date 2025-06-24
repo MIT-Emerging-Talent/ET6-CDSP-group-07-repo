@@ -54,8 +54,8 @@ As part of the **2025 MIT Emerging Talent program**, our team is committed to:
 ---
 ❓ Research Question
 
-> How do funding goals and campaign durations jointly influence the probability of
- startup success across various project categories, controlling for launch year
+>How do funding goals and campaign durations jointly influence the probability of
+startup success across various project categories, controlling for launch year
   an country?
 
 ⚠️ Problem Statement
